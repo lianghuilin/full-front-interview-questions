@@ -9,13 +9,9 @@
         }
     },
     "plugins": [
-        "sitemap",
         "-fontsettings",
         "-sharing"
     ],
     "pluginsConfig": {
-        "sitemap": {
-            "hostname": "https://www.example.com"
-        }
     }
 }
