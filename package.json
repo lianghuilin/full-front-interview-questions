@@ -1,0 +1,27 @@
+{
+  "name": "full-front-interview-questions",
+  "version": "1.0.0",
+  "description": "涵盖全栈、跨端开发的多领域",
+  "main": "build.js",
+  "dependencies": {
+    "gitbook-plugin-chapter-fold": "^0.0.4",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-tbfed-pagefooter": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lianghuilin/full-front-interview-questions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lianghuilin/full-front-interview-questions/issues"
+  },
+  "homepage": "https://github.com/lianghuilin/full-front-interview-questions#readme"
+}
