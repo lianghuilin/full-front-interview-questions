@@ -1,0 +1,21 @@
+{
+    "title": "大前端面试题合集",
+    "author": "汇林",
+    "description": "JS全栈、跨端等领域面试题汇总合集",
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "作者博客": "https://github.com/lianghuilin/murmur"
+        }
+    },
+    "plugins": [
+        "sitemap",
+        "-fontsettings",
+        "-sharing"
+    ],
+    "pluginsConfig": {
+        "sitemap": {
+            "hostname": "https://www.example.com"
+        }
+    }
+}
