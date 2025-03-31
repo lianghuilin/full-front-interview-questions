@@ -27,3 +27,8 @@
 - visibility:hidden
 - absolute移出视窗外
 - clip-path
+
+#### `display:none`和`visibility:hidden`的区别
+
+- 前者是隐藏不占空间，而后者扔占空间，从渲染树上区分
+- 从可继承性上区分
